@@ -1,0 +1,45 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Quitar cobijas",
+      "responsible": "Patricio",
+      "description": "Importan task",
+      "priority": "low"
+    },
+    {
+      "id": "2",
+      "title": "Entregar juguetes",
+      "responsible": "Santa Claus",
+      "description": "a los ninios",
+      "priority": "low"
+    },
+    {
+      "id": "3",
+      "title": "Hacer tarea",
+      "responsible": "Patricio",
+      "description": "Todos los dias",
+      "priority": "high"
+    },
+    {
+      "id": "4",
+      "title": "Tender la cama",
+      "responsible": "Carlos",
+      "description": "Todos los dias",
+      "priority": "medium"
+    },
+    {
+      "id": "5",
+      "title": "AAA1",
+      "responsible": "AAA2",
+      "description": "AAA3",
+      "priority": "low"
+    },
+    {
+      "id": "6",
+      "title": "BBB",
+      "responsible": "SAsa",
+      "description": "Todos los dias",
+      "priority": "high"
+    }  ]
+}
